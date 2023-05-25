@@ -25,7 +25,7 @@ print(frequency)
 Output:
 
 {
-    "the": 4,
+    "the": 4,# error must be 4 
     "quick": 1,
     "brown": 1,
     "fox": 2,
